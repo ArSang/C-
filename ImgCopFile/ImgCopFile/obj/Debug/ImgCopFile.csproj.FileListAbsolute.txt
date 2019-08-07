@@ -1,0 +1,10 @@
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\Log4net.config
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\ImgCopFile.exe.config
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\ImgCopFile.exe
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\ImgCopFile.pdb
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\log4net.dll
+E:\CopImage\ImgCopFile\ImgCopFile\bin\Debug\log4net.xml
+E:\CopImage\ImgCopFile\ImgCopFile\obj\Debug\ImgCopFile.csproj.CoreCompileInputs.cache
+E:\CopImage\ImgCopFile\ImgCopFile\obj\Debug\ImgCopFile.csproj.CopyComplete
+E:\CopImage\ImgCopFile\ImgCopFile\obj\Debug\ImgCopFile.exe
+E:\CopImage\ImgCopFile\ImgCopFile\obj\Debug\ImgCopFile.pdb
